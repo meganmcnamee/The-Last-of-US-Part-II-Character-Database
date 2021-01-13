@@ -7,4 +7,11 @@ This database is designed to store relevant information regarding the two playab
 This concludes the information stored in this database. Both Ellie and Abby are complex characters that the player learns to love and understand as the story progresses. Fun fact, The Last of Us Part II is the fastest-selling PlayStation 4 exclusive, with over four million units sold in its release weekend.
 
 Interfaces:
+
 <img src= "https://i.imgur.com/v3mzmfO.gif" width=600>
+
+<img src= "https://i.imgur.com/ZsYIlc6.gif" width=600>
+
+<img src= "https://i.imgur.com/TnIrlab.gif" width=600>
+
+<img src= "https://i.imgur.com/2alQhz1.gif" width=600>
